@@ -1,0 +1,189 @@
+body{
+    margin:0 ;
+    background-color: black;
+    color: white;
+}
+.navbar{
+    display:flex ;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+}
+.navbar-left{
+    padding-left: 20px  ;
+    font-size:small ;
+}
+.navbar-right{
+    padding-right: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.k{
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+}
+.kittu{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 80vh;
+   
+}
+.kittu-left{
+    width: 50vw;
+    padding-left: 200px;
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:20px ;
+}
+.kittu-right{
+   width: 50vw;
+   padding-left: 200px;
+   
+    
+}
+img {
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    size-adjust: ;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+   
+}
+.services{
+    padding: 50px;
+    text-align: center;
+}
+.serv-h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(241, 241, 55);
+    letter-spacing: 3px;
+    font-size: 40px;
+    font-style: italic;
+    padding-left: 60px;
+}
+.services-sub-card{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+    
+}
+.krishna{
+    color: red;
+    padding-left: 120px;
+    padding-right: 80px;
+}
+.krish{
+    padding-left: 50px;
+    font-size:15px;
+    padding-right:30px ;
+}
+.jai{
+    color: red;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.jai-charan{
+    padding-right: 10px;
+    padding-left: 30px;
+}
+.bharath{
+    padding-left: 15px;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.m-bharath{
+    padding-left: 20px;
+    font-size: 15px;
+    padding-right: 20px;
+}
+.services-card1{
+    border: green solid;
+    margin: 20px;
+}
+.services-card2{
+    border: green solid;
+    margin: 20px;
+}
+.services-card3{
+    border: green solid;
+    margin: 20px;
+}
+.contact{
+    text-align: center;
+}
+.contact-info{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-left: 70px;
+}
+.social-icon-img{
+    height: 50px;
+    width: 50px;
+    justify-content: space-between;
+    position:relative;
+    left: 40px;
+}
+.twitter{
+    height: 50px;
+    width: 50px;
+    position:relative;
+    left: 40px;
+}
+.link{
+    height: 50px;
+    width: 50px;
+    position:relative;
+    left: 40px;
+}
+.ram-h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(241, 241, 55);
+    letter-spacing: 3px;
+    font-size: 40px;
+    font-style: italic;
+    padding-left: 60px;
+}
+.charan{
+    border: green solid;
+    margin: 20px;
+   
+    
+}
+.venky-sub{
+    border: green solid;
+    margin: 10px;
+}
+.ram-h4{
+    padding-right:1500px ;
+}
+.venky-sub{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+}
+.test-logo{
+    height: 50px;
+    width: 50px;
+
+}
+.ram-h2{
+    padding-left: 10px;
+    color: red;
+}
+.reserved{
+    text-align: center;
+}
